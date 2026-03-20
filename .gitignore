@@ -1,0 +1,55 @@
+# Python
+ai-service/venv/
+ai-service/__pycache__/
+ai-service/data/raw/
+ai-service/data/processed/
+*.pyc
+*.pyo
+
+# Models (too large for GitHub — 16MB .pt file)
+ai-service/models/*.pt
+ai-service/models/*.onnx
+
+# But keep class_info.json and training_curves.png
+!ai-service/models/class_info.json
+!ai-service/models/training_curves.png
+
+# Java/Maven
+backend/*/target/
+backend/*/.mvn/
+*.class
+
+# Node/Next.js
+web/node_modules/
+web/.next/
+web/.env*
+
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/android/.gradle/
+mobile/android/local.properties
+mobile/android/app/google-services.json
+
+# Android Studio
+*.iml
+.idea/
+*.keystore
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker volumes
+mongo_data/
+
+# QGIS
+*.qgs~
+*.qgz~

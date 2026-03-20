@@ -1,0 +1,11 @@
+{
+  "class_to_idx": {
+    "clean": 0,
+    "dirty": 1
+  },
+  "idx_to_class": {
+    "0": "clean",
+    "1": "dirty"
+  },
+  "best_val_acc": 0.8526832690284111
+}

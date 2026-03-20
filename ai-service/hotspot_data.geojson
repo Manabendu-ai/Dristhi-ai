@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6097,
+          12.9756
+        ]
+      },
+      "properties": {
+        "ward_number": 63,
+        "ward_name": "MG Road",
+        "zone": "Central",
+        "waste_density": 0.819,
+        "hotspot_intensity": 81.9,
+        "risk_level": "CRITICAL",
+        "color": "#EF4444",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6271,
+          12.9279
+        ]
+      },
+      "properties": {
+        "ward_number": 150,
+        "ward_name": "Koramangala 1st Block",
+        "zone": "South",
+        "waste_density": 0.814,
+        "hotspot_intensity": 81.4,
+        "risk_level": "CRITICAL",
+        "color": "#EF4444",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6205,
+          12.9347
+        ]
+      },
+      "properties": {
+        "ward_number": 151,
+        "ward_name": "Koramangala 4th Block",
+        "zone": "South",
+        "waste_density": 0.794,
+        "hotspot_intensity": 79.4,
+        "risk_level": "CRITICAL",
+        "color": "#EF4444",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5831,
+          12.9308
+        ]
+      },
+      "properties": {
+        "ward_number": 20,
+        "ward_name": "Jayanagar 4th Block",
+        "zone": "South",
+        "waste_density": 0.744,
+        "hotspot_intensity": 74.4,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6974,
+          12.9591
+        ]
+      },
+      "properties": {
+        "ward_number": 195,
+        "ward_name": "Marathahalli",
+        "zone": "East",
+        "waste_density": 0.7,
+        "hotspot_intensity": 70.0,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6389,
+          12.9116
+        ]
+      },
+      "properties": {
+        "ward_number": 174,
+        "ward_name": "HSR Layout",
+        "zone": "South",
+        "waste_density": 0.671,
+        "hotspot_intensity": 67.1,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6408,
+          12.9716
+        ]
+      },
+      "properties": {
+        "ward_number": 81,
+        "ward_name": "Indiranagar",
+        "zone": "East",
+        "waste_density": 0.658,
+        "hotspot_intensity": 65.8,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6101,
+          12.9166
+        ]
+      },
+      "properties": {
+        "ward_number": 33,
+        "ward_name": "BTM Layout",
+        "zone": "South",
+        "waste_density": 0.634,
+        "hotspot_intensity": 63.4,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5857,
+          12.9063
+        ]
+      },
+      "properties": {
+        "ward_number": 34,
+        "ward_name": "JP Nagar",
+        "zone": "South",
+        "waste_density": 0.57,
+        "hotspot_intensity": 57.0,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5673,
+          13.0035
+        ]
+      },
+      "properties": {
+        "ward_number": 110,
+        "ward_name": "Malleshwaram",
+        "zone": "North",
+        "waste_density": 0.569,
+        "hotspot_intensity": 56.9,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7499,
+          12.9698
+        ]
+      },
+      "properties": {
+        "ward_number": 198,
+        "ward_name": "Whitefield",
+        "zone": "East",
+        "waste_density": 0.567,
+        "hotspot_intensity": 56.7,
+        "risk_level": "HIGH",
+        "color": "#F97316",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5963,
+          13.1007
+        ]
+      },
+      "properties": {
+        "ward_number": 55,
+        "ward_name": "Yelahanka",
+        "zone": "North",
+        "waste_density": 0.308,
+        "hotspot_intensity": 30.8,
+        "risk_level": "LOW",
+        "color": "#22C55E",
+        "spectral_note": "Derived from IRS LISS-IV Band3/Band4 ratio analysis",
+        "satellite_source": "IRS Resourcesat-2A LISS-IV (5.8m resolution)",
+        "revisit_days": 5
+      }
+    }
+  ],
+  "metadata": {
+    "generated_by": "DRISHTI Satellite Analysis Module",
+    "satellite": "IRS Resourcesat-2A LISS-IV",
+    "resolution_m": 5.8,
+    "bands_used": [
+      "Green(0.52-0.59\u03bcm)",
+      "Red(0.62-0.68\u03bcm)",
+      "NIR(0.77-0.86\u03bcm)"
+    ],
+    "classification": "Supervised \u2014 Maximum Likelihood",
+    "coverage": "BBMP Bengaluru \u00b7 198 wards"
+  }
+}
